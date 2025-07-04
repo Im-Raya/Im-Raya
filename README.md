@@ -1,4 +1,12 @@
-## Hi there 👋
+# 🌿 Hi there, I'm Raya
+
+tracing light, data and quiet things in my radiant field.
+
+- 🌱 studying **finance, Python, SQL**
+- 💻 currently learning **data analysis & certification**
+- 📚 sharing thoughts on [radiant_field.blog](https://blog.naver.com/radiant_field)
+
+> “collecting gentle traces of light, page by page.”
 
 <!--
 **Im-Raya/Im-Raya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
